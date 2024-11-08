@@ -1,1 +1,1 @@
-const math = require("./math");
+const math = require("./math.js");
