@@ -1,0 +1,16 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "My homework ",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "boild": "parcel build index.html",
+    "test": "homework"
+  },
+  "keywords": [
+    "homework"
+  ],
+  "author": "Ivan Furin",
+  "license": "ISC"
+}
